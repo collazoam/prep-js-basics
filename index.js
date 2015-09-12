@@ -29,8 +29,10 @@ var that_one_prince_song = "1999";
 * declare variables named `isDaytime`, `isLeftHanded`, `inHawaii`, and `isHappyCoding`
 * Their values should be a Boolean
 **/
-
-
+var isDaytime = "false";
+var isLeftHanded = "false";
+var inHawaii = "true";
+var isHappyCoding = "true"
 
 /**
 * #4
