@@ -32,7 +32,7 @@ var that_one_prince_song = "1999";
 var isDaytime = "false";
 var isLeftHanded = "false";
 var inHawaii = "true";
-var isHappyCoding = "true"
+var isHappyCoding = "true";
 
 /**
 * #4
@@ -41,7 +41,8 @@ var isHappyCoding = "true"
 * declare variables named `enrolledAtDevLeague` and `completedFridayPrep`
 * Their values should be a Null value
 **/
-
+var enrolledAtDevLeague = "null";
+var completedFridayPrep = "null"
 
 /**
 * #5a
