@@ -51,7 +51,7 @@ var completedFridayPrep = null;
 * declare a variable named `west_coast` which is an Array. This Array contains the names of all the states
 * which can be found along the west coast of The United States.
 **/
-var west_coast = [Washington, Oregon, California];
+var west_coast = ["Washington", "Oregon", "California"];
 
 
 /**
@@ -67,21 +67,23 @@ var even numbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
 /**
 * #6a Arithmetic
 */
-var x = 10;
-var y = 5;
-var z = x*y;
 
+5+4
 
 /**
 * #6b Comparisons & Logic
 */
 
+10>12
 
+1===true
+
+12>15
 
 /**
 * #6c Assignments
 */
-
+"Electric" + "Lady"
 
 
 /**
