@@ -98,8 +98,10 @@ var even numbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
 * store the return value to a variable and use console.log to inspect the value which was passed back by your function
 **/
 
-
-
+function jump (height){
+	console.log("You jumped" +height + " feet high!");
+}
+ jump(9);
 /**
 * #7b
 * Declare Functions
@@ -110,7 +112,11 @@ var even numbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
 **/
 
+function cook (ingredient1, ingredient2) {
+	console.log(ingredient1 + "and" + ingredient2 + "make a pizza!");
 
+}
+cook("tomatoes", "cheese", "Pizza");
 
 /**
 * #7c
